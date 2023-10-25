@@ -50,6 +50,13 @@ function CALCULATE_DAMAGE_ADV(attacker, defender, move, field) {
         return {"damage":[lv], "description":buildDescription(description)};
     }
 
+    if (move.name === "Psywave") {
+        var damage = []
+        for (var i = 0; i <= 10; i++) {
+            damage[i] = Math.max(1, Math.floor(lv * (i*10 + 50) / 100));
+        }
+        return {"damage": damage, "description":buildDescription(description)};
+    }
     if (move.name === "Sonicboom") {
         return {"damage":[20], "description":buildDescription(description)};
     }
