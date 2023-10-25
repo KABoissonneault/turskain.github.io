@@ -239,7 +239,7 @@ var SETDEX_ADV = {
             "level": 100,
             "moves": [
                 "Fury Swipes",
-                "Sand-Attack",
+                "Sand Attack",
                 "Baton Pass",
                 "Agility"
             ],
@@ -1432,7 +1432,7 @@ var SETDEX_ADV = {
                 "Toxic",
                 "Double Team",
                 "Sing",
-                "Softboiled"
+                "Soft-Boiled"
             ],
             "nature": "Bold"
         },
@@ -1472,7 +1472,7 @@ var SETDEX_ADV = {
                 "Fire Blast",
                 "Blizzard",
                 "Calm Mind",
-                "Softboiled"
+                "Soft-Boiled"
             ],
             "nature": "Bold"
         },
@@ -1492,7 +1492,7 @@ var SETDEX_ADV = {
                 "Ice Beam",
                 "Calm Mind",
                 "Counter",
-                "Softboiled"
+                "Soft-Boiled"
             ],
             "nature": "Bold"
         }
@@ -1658,7 +1658,7 @@ var SETDEX_ADV = {
                 "Needle Arm",
                 "Feint Attack",
                 "Cotton Spore",
-                "Sand-Attack"
+                "Sand Attack"
             ],
             "nature": "Quirky"
         }
@@ -1887,7 +1887,7 @@ var SETDEX_ADV = {
                 "Seismic Toss",
                 "Shadow Ball",
                 "Double Team",
-                "Softboiled"
+                "Soft-Boiled"
             ],
             "nature": "Relaxed"
         }
@@ -1929,7 +1929,7 @@ var SETDEX_ADV = {
                 "Earthquake",
                 "Aerial Ace",
                 "Dragon Dance",
-                "Smoke Screen"
+                "Smokescreen"
             ],
             "nature": "Adamant"
         },
@@ -2009,7 +2009,7 @@ var SETDEX_ADV = {
             "moves": [
                 "Fire Spin",
                 "Metal Claw",
-                "Smoke Screen",
+                "Smokescreen",
                 "Scary Face"
             ],
             "nature": "Docile"
@@ -2318,7 +2318,7 @@ var SETDEX_ADV = {
                 "Mega Kick",
                 "Psychic",
                 "Shadow Ball",
-                "Softboiled"
+                "Soft-Boiled"
             ],
             "nature": "Docile"
         }
@@ -2422,7 +2422,7 @@ var SETDEX_ADV = {
                 "Ember",
                 "Double Kick",
                 "Quick Attack",
-                "Sand-Attack"
+                "Sand Attack"
             ],
             "nature": "Docile"
         },
@@ -2441,7 +2441,7 @@ var SETDEX_ADV = {
                 "Flamethrower",
                 "Sky Uppercut",
                 "Slash",
-                "Sand-Attack"
+                "Sand Attack"
             ],
             "nature": "Docile"
         }
@@ -2794,7 +2794,7 @@ var SETDEX_ADV = {
                 "Ember",
                 "Swift",
                 "Quick Attack",
-                "Smoke Screen"
+                "Smokescreen"
             ],
             "nature": "Docile"
         }
@@ -2957,7 +2957,7 @@ var SETDEX_ADV = {
                 "Magnitude",
                 "Slash",
                 "Rock Tomb",
-                "Sand-Attack"
+                "Sand Attack"
             ],
             "nature": "Naive"
         }
@@ -4591,7 +4591,7 @@ var SETDEX_ADV = {
                 "Flamethrower",
                 "Roar",
                 "Bite",
-                "Sand-Attack"
+                "Sand Attack"
             ],
             "nature": "Modest"
         },
@@ -5714,7 +5714,7 @@ var SETDEX_ADV = {
             "level": 100,
             "moves": [
                 "Mega Kick",
-                "Smelling Salt",
+                "Smelling Salts",
                 "Thunder Wave",
                 "Roar"
             ],
@@ -7047,7 +7047,7 @@ var SETDEX_ADV = {
             "moves": [
                 "Mega Drain",
                 "Ancient Power",
-                "Sand-Attack",
+                "Sand Attack",
                 "Protect"
             ],
             "nature": "Hardy"
@@ -7439,7 +7439,7 @@ var SETDEX_ADV = {
             "level": 100,
             "moves": [
                 "Sludge",
-                "Smoke Screen",
+                "Smokescreen",
                 "Torment",
                 "Haze"
             ],
@@ -8269,7 +8269,7 @@ var SETDEX_ADV = {
             "level": 100,
             "moves": [
                 "Secret Power",
-                "Sand-Attack",
+                "Sand Attack",
                 "Covet",
                 "Tickle"
             ],
@@ -8291,7 +8291,7 @@ var SETDEX_ADV = {
                 "Trick",
                 "Frustration",
                 "Thunder Wave",
-                "Sand-Attack"
+                "Sand Attack"
             ],
             "nature": "Jolly"
         }
@@ -8736,7 +8736,7 @@ var SETDEX_ADV = {
             "level": 100,
             "moves": [
                 "Fire Punch",
-                "Smoke Screen",
+                "Smokescreen",
                 "Confuse Ray",
                 "Smog"
             ],
@@ -8820,7 +8820,7 @@ var SETDEX_ADV = {
             "level": 100,
             "moves": [
                 "Flamethrower",
-                "Smoke Screen",
+                "Smokescreen",
                 "Brick Break",
                 "Barrier"
             ],
@@ -8839,7 +8839,7 @@ var SETDEX_ADV = {
             "level": 100,
             "moves": [
                 "Fire Blast",
-                "Smoke Screen",
+                "Smokescreen",
                 "Thunder Punch",
                 "Confuse Ray"
             ],
@@ -11396,7 +11396,7 @@ var SETDEX_ADV = {
                 "Aerial Ace",
                 "Quick Attack",
                 "Feather Dance",
-                "Sand-Attack"
+                "Sand Attack"
             ],
             "nature": "Quirky"
         }
@@ -11416,7 +11416,7 @@ var SETDEX_ADV = {
             "level": 100,
             "moves": [
                 "Gust",
-                "Sand-Attack",
+                "Sand Attack",
                 "Whirlwind",
                 "Quick Attack"
             ],
@@ -11500,7 +11500,7 @@ var SETDEX_ADV = {
             "item": "Focus Band",
             "level": 100,
             "moves": [
-                "Selfdestruct",
+                "Self-Destruct",
                 "Take Down",
                 "Reflect",
                 "Light Screen"
@@ -11777,7 +11777,7 @@ var SETDEX_ADV = {
                 "Crunch",
                 "Swagger",
                 "Roar",
-                "Sand-Attack"
+                "Sand Attack"
             ],
             "nature": "Relaxed"
         }
@@ -12105,7 +12105,7 @@ var SETDEX_ADV = {
                 "Flame Wheel",
                 "Fury Swipes",
                 "Swift",
-                "Smoke Screen"
+                "Smokescreen"
             ],
             "nature": "Docile"
         },
@@ -12125,7 +12125,7 @@ var SETDEX_ADV = {
                 "Flamethrower",
                 "Crush Claw",
                 "Body Slam",
-                "Smoke Screen"
+                "Smokescreen"
             ],
             "nature": "Docile"
         }
@@ -13424,7 +13424,7 @@ var SETDEX_ADV = {
                 "Dig",
                 "Rock Tomb",
                 "Sandstorm",
-                "Sand-Attack"
+                "Sand Attack"
             ],
             "nature": "Docile"
         }
@@ -13688,7 +13688,7 @@ var SETDEX_ADV = {
             "level": 100,
             "moves": [
                 "Aurora Beam",
-                "Smoke Screen",
+                "Smokescreen",
                 "Water Gun",
                 "Rain Dance"
             ],
@@ -15318,7 +15318,7 @@ var SETDEX_ADV = {
                 "Extrasensory",
                 "Confuse Ray",
                 "Stomp",
-                "Sand-Attack"
+                "Sand Attack"
             ],
             "nature": "Gentle"
         },
@@ -15657,7 +15657,7 @@ var SETDEX_ADV = {
                 "Mega Kick",
                 "Earthquake",
                 "Low Kick",
-                "Selfdestruct"
+                "Self-Destruct"
             ],
             "nature": "Hardy"
         }
@@ -16478,7 +16478,7 @@ var SETDEX_ADV = {
             "moves": [
                 "Fire Spin",
                 "Quick Attack",
-                "Sand-Attack",
+                "Sand Attack",
                 "Double Team"
             ],
             "nature": "Lonely"
@@ -16500,7 +16500,7 @@ var SETDEX_ADV = {
             "moves": [
                 "Ember",
                 "Fire Spin",
-                "Smoke Screen",
+                "Smokescreen",
                 "Amnesia"
             ],
             "nature": "Relaxed"
@@ -16520,7 +16520,7 @@ var SETDEX_ADV = {
             "moves": [
                 "Overheat",
                 "Body Slam",
-                "Smoke Screen",
+                "Smokescreen",
                 "Protect"
             ],
             "nature": "Sassy"
@@ -16563,7 +16563,7 @@ var SETDEX_ADV = {
                 "Toxic",
                 "Dig",
                 "Sandstorm",
-                "Sand-Attack"
+                "Sand Attack"
             ],
             "nature": "Serious"
         }
@@ -16647,7 +16647,7 @@ var SETDEX_ADV = {
             "moves": [
                 "Fire Blast",
                 "Sunny Day",
-                "Smoke Screen",
+                "Smokescreen",
                 "Roar"
             ],
             "nature": "Modest"
@@ -18087,7 +18087,7 @@ var SETDEX_ADV = {
                 "Sludge Bomb",
                 "Will-O-Wisp",
                 "Shadow Ball",
-                "Smoke Screen"
+                "Smokescreen"
             ],
             "nature": "Adamant"
         },
@@ -18249,7 +18249,7 @@ var SETDEX_ADV = {
                 "Uproar",
                 "Swagger",
                 "Body Slam",
-                "Smelling Salt"
+                "Smelling Salts"
             ],
             "nature": "Relaxed"
         }
@@ -18703,7 +18703,7 @@ var SETDEX_ADV = {
                 "Headbutt",
                 "Pin Missile",
                 "Swift",
-                "Sand-Attack"
+                "Sand Attack"
             ],
             "nature": "Timid"
         }
