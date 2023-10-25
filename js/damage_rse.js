@@ -57,7 +57,7 @@ function CALCULATE_DAMAGE_ADV(attacker, defender, move, field) {
         }
         return {"damage": damage, "description":buildDescription(description)};
     }
-    if (move.name === "Sonicboom") {
+    if (move.name === "Sonic Boom") {
         return {"damage":[20], "description":buildDescription(description)};
     }
 

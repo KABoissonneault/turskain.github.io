@@ -40,7 +40,7 @@ function CALCULATE_DAMAGE_RBY(attacker, defender, move, field) {
         return {"damage":[lv], "description":buildDescription(description)};
     }
 
-    if (move.name === "Sonicboom") {
+    if (move.name === "Sonic Boom") {
         return {"damage":20, "description":buildDescription(description)};
     }
 
