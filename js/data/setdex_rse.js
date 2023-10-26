@@ -17802,9 +17802,9 @@ var SETDEX_ADV = {
                 "hp": 255,
                 "sa": 0,
                 "sd": 0,
-                "sp": 0
-            "item": "Cheri Berry",
+                "sp": 0,
             },
+            "item": "Cheri Berry",
             "level": 100,
             "moves": [
                 "Poison Fang",
