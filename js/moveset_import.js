@@ -181,6 +181,8 @@ function getMoves(currentPoke, rows, offset) {
 
 }
 
+var customSets;
+
 function addToDex(poke) {
 	var dexObject = {};
 	if (SETDEX_SM[poke.name] == undefined) SETDEX_SM[poke.name] = {};
@@ -202,7 +204,6 @@ function addToDex(poke) {
 	dexObject.nature = poke.nature;
 	dexObject.item = poke.item;
 	dexObject.isCustomSet = poke.isCustomSet;
-	var customsets;
 	if (localStorage.customsets) {
 		customsets = JSON.parse(localStorage.customsets);
 	} else {
@@ -339,7 +340,6 @@ $(bothPokemon("#importedSets")).click(function () {
 });
 
 $(document).ready(function () {
-	var customSets;
 	placeBsBtn();
 	if (localStorage.customsets) {
 		customSets = JSON.parse(localStorage.customsets);

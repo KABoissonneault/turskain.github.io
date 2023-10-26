@@ -9,7 +9,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Twisted Spoon",
             "level": 100,
             "moves": [
@@ -31,7 +30,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -51,7 +49,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Choice Band",
             "level": 100,
             "moves": [
@@ -73,7 +70,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 170
             },
-            "isCustomSet": true,
             "item": "King's Rock",
             "level": 100,
             "moves": [
@@ -93,7 +89,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 170
             },
-            "isCustomSet": true,
             "item": "Choice Band",
             "level": 100,
             "moves": [
@@ -113,7 +108,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "King's Rock",
             "level": 100,
             "moves": [
@@ -133,7 +127,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "King's Rock",
             "level": 100,
             "moves": [
@@ -155,7 +148,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Iron Tail",
@@ -174,7 +166,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Focus Punch",
@@ -193,7 +184,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -213,7 +203,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Double-Edge",
@@ -234,7 +223,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Silk Scarf",
             "level": 100,
             "moves": [
@@ -256,7 +244,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -276,7 +263,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Psychic",
@@ -295,7 +281,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Choice Band",
             "level": 100,
             "moves": [
@@ -315,7 +300,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -335,7 +319,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 152
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -357,7 +340,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Cheri Berry",
             "level": 100,
             "moves": [
@@ -377,7 +359,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Leftovers",
             "level": 100,
             "moves": [
@@ -397,7 +378,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Sing",
@@ -416,7 +396,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Dragon Claw",
@@ -437,7 +416,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Magnet",
             "level": 100,
             "moves": [
@@ -457,7 +435,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -477,7 +454,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -497,7 +473,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Thunderbolt",
@@ -518,7 +493,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Metal Claw",
@@ -539,7 +513,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Persim Berry",
             "level": 100,
             "moves": [
@@ -559,7 +532,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Sludge Bomb",
@@ -580,7 +552,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "King's Rock",
             "level": 100,
             "moves": [
@@ -600,7 +571,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Fire Blast",
@@ -619,7 +589,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "White Herb",
             "level": 100,
             "moves": [
@@ -639,7 +608,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "White Herb",
             "level": 100,
             "moves": [
@@ -659,7 +627,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "White Herb",
             "level": 100,
             "moves": [
@@ -681,7 +648,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Signal Beam",
@@ -702,7 +668,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Slash",
@@ -721,7 +686,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Iron Tail",
@@ -740,7 +704,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Earthquake",
@@ -759,7 +722,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Choice Band",
             "level": 100,
             "moves": [
@@ -781,7 +743,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Persim Berry",
             "level": 100,
             "moves": [
@@ -803,7 +764,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Ice Beam",
@@ -822,7 +782,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Leftovers",
             "level": 100,
             "moves": [
@@ -842,7 +801,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -862,7 +820,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Chesto Berry",
             "level": 100,
             "moves": [
@@ -882,7 +839,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -902,7 +858,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Chesto Berry",
             "level": 100,
             "moves": [
@@ -924,7 +879,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Sitrus Berry",
             "level": 100,
             "moves": [
@@ -944,7 +898,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Mega Kick",
@@ -965,7 +918,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Cheri Berry",
             "level": 100,
             "moves": [
@@ -987,7 +939,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Liechi Berry",
             "level": 100,
             "moves": [
@@ -1009,7 +960,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Persim Berry",
             "level": 100,
             "moves": [
@@ -1031,7 +981,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Rawst Berry",
             "level": 100,
             "moves": [
@@ -1051,7 +1000,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Shadow Ball",
@@ -1072,7 +1020,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -1094,7 +1041,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -1114,7 +1060,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Chesto Berry",
             "level": 100,
             "moves": [
@@ -1136,7 +1081,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Mental Herb",
             "level": 100,
             "moves": [
@@ -1158,7 +1102,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Twineedle",
@@ -1179,7 +1122,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Choice Band",
             "level": 100,
             "moves": [
@@ -1201,7 +1143,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Persim Berry",
             "level": 100,
             "moves": [
@@ -1221,7 +1162,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -1243,7 +1183,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Sitrus Berry",
             "level": 100,
             "moves": [
@@ -1265,7 +1204,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Hydro Pump",
@@ -1284,7 +1222,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Hydro Pump",
@@ -1303,7 +1240,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -1323,7 +1259,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -1345,7 +1280,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Flamethrower",
@@ -1364,7 +1298,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Blaze Kick",
@@ -1383,7 +1316,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Salac Berry",
             "level": 100,
             "moves": [
@@ -1403,7 +1335,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "White Herb",
             "level": 100,
             "moves": [
@@ -1425,7 +1356,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -1445,7 +1375,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Leftovers",
             "level": 100,
             "moves": [
@@ -1465,7 +1394,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -1485,7 +1413,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -1507,7 +1434,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "King's Rock",
             "level": 100,
             "moves": [
@@ -1527,7 +1453,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -1547,7 +1472,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Leftovers",
             "level": 100,
             "moves": [
@@ -1567,7 +1491,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Focus Punch",
@@ -1586,7 +1509,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 252
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Spore",
@@ -1607,7 +1529,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -1629,7 +1550,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Pecha Berry",
             "level": 100,
             "moves": [
@@ -1651,7 +1571,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Sitrus Berry",
             "level": 100,
             "moves": [
@@ -1673,7 +1592,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Needle Arm",
@@ -1692,7 +1610,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Persim Berry",
             "level": 100,
             "moves": [
@@ -1714,7 +1631,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -1734,7 +1650,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Earthquake",
@@ -1755,7 +1670,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Bite",
@@ -1776,7 +1690,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Harden",
@@ -1797,7 +1710,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Petaya Berry",
             "level": 100,
             "moves": [
@@ -1817,7 +1729,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Thunderbolt",
@@ -1838,7 +1749,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -1860,7 +1770,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Sitrus Berry",
             "level": 100,
             "moves": [
@@ -1880,7 +1789,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Leftovers",
             "level": 100,
             "moves": [
@@ -1902,7 +1810,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -1922,7 +1829,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -1942,7 +1848,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Flamethrower",
@@ -1961,7 +1866,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 170
             },
-            "isCustomSet": true,
             "item": "White Herb",
             "level": 100,
             "moves": [
@@ -1981,7 +1885,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 152
             },
-            "isCustomSet": true,
             "item": "White Herb",
             "level": 100,
             "moves": [
@@ -2003,7 +1906,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -2025,7 +1927,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Slash",
@@ -2044,7 +1945,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Flamethrower",
@@ -2065,7 +1965,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -2087,7 +1986,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Twisted Spoon",
             "level": 100,
             "moves": [
@@ -2107,7 +2005,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Twisted Spoon",
             "level": 100,
             "moves": [
@@ -2129,7 +2026,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Spark",
@@ -2150,7 +2046,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Deep Sea Scale",
             "level": 100,
             "moves": [
@@ -2172,7 +2067,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Earthquake",
@@ -2191,7 +2085,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Leftovers",
             "level": 100,
             "moves": [
@@ -2211,7 +2104,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Psychic",
@@ -2230,7 +2122,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -2252,7 +2143,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Leftovers",
             "level": 100,
             "moves": [
@@ -2272,7 +2162,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -2292,7 +2181,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Thunderbolt",
@@ -2311,7 +2199,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -2333,7 +2220,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Follow Me",
@@ -2354,7 +2240,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Sweet Kiss",
@@ -2375,7 +2260,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Aurora Beam",
@@ -2394,7 +2278,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Leftovers",
             "level": 100,
             "moves": [
@@ -2416,7 +2299,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Ember",
@@ -2435,7 +2317,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 170
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Flamethrower",
@@ -2456,7 +2337,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Mystic Water",
             "level": 100,
             "moves": [
@@ -2478,7 +2358,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Sitrus Berry",
             "level": 100,
             "moves": [
@@ -2500,7 +2379,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Leftovers",
             "level": 100,
             "moves": [
@@ -2520,7 +2398,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Sitrus Berry",
             "level": 100,
             "moves": [
@@ -2540,7 +2417,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Leftovers",
             "level": 100,
             "moves": [
@@ -2560,7 +2436,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Leftovers",
             "level": 100,
             "moves": [
@@ -2582,7 +2457,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Persim Berry",
             "level": 100,
             "moves": [
@@ -2602,7 +2476,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Guillotine",
@@ -2623,7 +2496,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "King's Rock",
             "level": 100,
             "moves": [
@@ -2643,7 +2515,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Leftovers",
             "level": 100,
             "moves": [
@@ -2663,7 +2534,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Air Cutter",
@@ -2682,7 +2552,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -2702,7 +2571,6 @@ var SETDEX_ADV = {
                 "sd": 106,
                 "sp": 152
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -2724,7 +2592,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Slash",
@@ -2743,7 +2610,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -2765,7 +2631,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Soft Sand",
             "level": 100,
             "moves": [
@@ -2787,7 +2652,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Sitrus Berry",
             "level": 100,
             "moves": [
@@ -2809,7 +2673,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Sitrus Berry",
             "level": 100,
             "moves": [
@@ -2829,7 +2692,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Fake Tears",
@@ -2850,7 +2712,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Present",
@@ -2871,7 +2732,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Ice Beam",
@@ -2890,7 +2750,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Blizzard",
@@ -2909,7 +2768,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Chesto Berry",
             "level": 100,
             "moves": [
@@ -2929,7 +2787,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Sheer Cold",
@@ -2950,7 +2807,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "King's Rock",
             "level": 100,
             "moves": [
@@ -2972,7 +2828,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Metal Powder",
             "level": 100,
             "moves": [
@@ -2994,7 +2849,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Chesto Berry",
             "level": 100,
             "moves": [
@@ -3014,7 +2868,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "King's Rock",
             "level": 100,
             "moves": [
@@ -3034,7 +2887,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Double-Edge",
@@ -3053,7 +2905,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Salac Berry",
             "level": 100,
             "moves": [
@@ -3075,7 +2926,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Liechi Berry",
             "level": 100,
             "moves": [
@@ -3097,7 +2947,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Chesto Berry",
             "level": 100,
             "moves": [
@@ -3117,7 +2966,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Flail",
@@ -3136,7 +2984,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Fissure",
@@ -3155,7 +3002,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Fissure",
@@ -3176,7 +3022,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Cheri Berry",
             "level": 100,
             "moves": [
@@ -3196,7 +3041,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Chesto Berry",
             "level": 100,
             "moves": [
@@ -3218,7 +3062,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -3238,7 +3081,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Fire Blast",
@@ -3257,7 +3099,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -3277,7 +3118,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Leftovers",
             "level": 100,
             "moves": [
@@ -3297,7 +3137,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Chesto Berry",
             "level": 100,
             "moves": [
@@ -3317,7 +3156,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Outrage",
@@ -3336,7 +3174,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Dragon Claw",
@@ -3355,7 +3192,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Dragon Claw",
@@ -3374,7 +3210,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Dragon Claw",
@@ -3393,7 +3228,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Thunder",
@@ -3414,7 +3248,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Persim Berry",
             "level": 100,
             "moves": [
@@ -3436,7 +3269,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Sitrus Berry",
             "level": 100,
             "moves": [
@@ -3458,7 +3290,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Soft Sand",
             "level": 100,
             "moves": [
@@ -3478,7 +3309,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "King's Rock",
             "level": 100,
             "moves": [
@@ -3498,7 +3328,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "King's Rock",
             "level": 100,
             "moves": [
@@ -3518,7 +3347,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "King's Rock",
             "level": 100,
             "moves": [
@@ -3540,7 +3368,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Headbutt",
@@ -3559,7 +3386,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Ice Beam",
@@ -3580,7 +3406,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Leftovers",
             "level": 100,
             "moves": [
@@ -3600,7 +3425,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Leftovers",
             "level": 100,
             "moves": [
@@ -3620,7 +3444,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Leftovers",
             "level": 100,
             "moves": [
@@ -3640,7 +3463,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Chesto Berry",
             "level": 100,
             "moves": [
@@ -3662,7 +3484,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Persim Berry",
             "level": 100,
             "moves": [
@@ -3684,7 +3505,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Silver Powder",
             "level": 100,
             "moves": [
@@ -3706,7 +3526,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Salac Berry",
             "level": 100,
             "moves": [
@@ -3728,7 +3547,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Poison Barb",
             "level": 100,
             "moves": [
@@ -3750,7 +3568,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Cheri Berry",
             "level": 100,
             "moves": [
@@ -3770,7 +3587,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 170
             },
-            "isCustomSet": true,
             "item": "Leftovers",
             "level": 100,
             "moves": [
@@ -3790,7 +3606,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Fire Punch",
@@ -3809,7 +3624,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Thunderbolt",
@@ -3830,7 +3644,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Cheri Berry",
             "level": 100,
             "moves": [
@@ -3852,7 +3665,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -3872,7 +3684,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -3892,7 +3703,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Liechi Berry",
             "level": 100,
             "moves": [
@@ -3912,7 +3722,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Explosion",
@@ -3933,7 +3742,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Cheri Berry",
             "level": 100,
             "moves": [
@@ -3955,7 +3763,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Chesto Berry",
             "level": 100,
             "moves": [
@@ -3975,7 +3782,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -3995,7 +3801,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Flamethrower",
@@ -4014,7 +3819,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "King's Rock",
             "level": 100,
             "moves": [
@@ -4034,7 +3838,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Salac Berry",
             "level": 100,
             "moves": [
@@ -4054,7 +3857,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Chesto Berry",
             "level": 100,
             "moves": [
@@ -4074,7 +3876,6 @@ var SETDEX_ADV = {
                 "sd": 6,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Fire Blast",
@@ -4095,7 +3896,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 170
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Psychic",
@@ -4114,7 +3914,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Chesto Berry",
             "level": 100,
             "moves": [
@@ -4134,7 +3933,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Psychic",
@@ -4153,7 +3951,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -4175,7 +3972,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Persim Berry",
             "level": 100,
             "moves": [
@@ -4197,7 +3993,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Solar Beam",
@@ -4216,7 +4011,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Chesto Berry",
             "level": 100,
             "moves": [
@@ -4236,7 +4030,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Leftovers",
             "level": 100,
             "moves": [
@@ -4256,7 +4049,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -4278,7 +4070,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Chesto Berry",
             "level": 100,
             "moves": [
@@ -4298,7 +4089,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -4318,7 +4108,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "White Herb",
             "level": 100,
             "moves": [
@@ -4338,7 +4127,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "White Herb",
             "level": 100,
             "moves": [
@@ -4360,7 +4148,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Stick",
             "level": 100,
             "moves": [
@@ -4382,7 +4169,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Sharp Beak",
             "level": 100,
             "moves": [
@@ -4402,7 +4188,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -4422,7 +4207,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Drill Peck",
@@ -4441,7 +4225,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Drill Peck",
@@ -4462,7 +4245,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -4484,7 +4266,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Surf",
@@ -4503,7 +4284,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Surf",
@@ -4522,7 +4302,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Hydro Pump",
@@ -4541,7 +4320,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Hydro Pump",
@@ -4562,7 +4340,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Magnet",
             "level": 100,
             "moves": [
@@ -4584,7 +4361,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Sitrus Berry",
             "level": 100,
             "moves": [
@@ -4604,7 +4380,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Curse",
@@ -4623,7 +4398,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Shadow Ball",
@@ -4642,7 +4416,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Overheat",
@@ -4663,7 +4436,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -4683,7 +4455,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -4703,7 +4474,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 170
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Earthquake",
@@ -4722,7 +4492,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 170
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Earthquake",
@@ -4743,7 +4512,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -4763,7 +4531,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Earthquake",
@@ -4782,7 +4549,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -4802,7 +4568,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Explosion",
@@ -4823,7 +4588,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Liechi Berry",
             "level": 100,
             "moves": [
@@ -4843,7 +4607,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Choice Band",
             "level": 100,
             "moves": [
@@ -4865,7 +4628,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 170
             },
-            "isCustomSet": true,
             "item": "Leftovers",
             "level": 100,
             "moves": [
@@ -4885,7 +4647,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Chesto Berry",
             "level": 100,
             "moves": [
@@ -4905,7 +4666,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Psychic",
@@ -4924,7 +4684,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -4944,7 +4703,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 170
             },
-            "isCustomSet": true,
             "item": "Salac Berry",
             "level": 100,
             "moves": [
@@ -4964,7 +4722,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Psychic",
@@ -4983,7 +4740,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Psychic",
@@ -5002,7 +4758,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -5024,7 +4779,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Dream Eater",
@@ -5045,7 +4799,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 170
             },
-            "isCustomSet": true,
             "item": "Leftovers",
             "level": 100,
             "moves": [
@@ -5065,7 +4818,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Leftovers",
             "level": 100,
             "moves": [
@@ -5085,7 +4837,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Psychic",
@@ -5104,7 +4855,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Psychic",
@@ -5123,7 +4873,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -5143,7 +4892,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -5163,7 +4911,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Psychic",
@@ -5182,7 +4929,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Psychic",
@@ -5201,7 +4947,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Leftovers",
             "level": 100,
             "moves": [
@@ -5223,7 +4968,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -5245,7 +4989,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Petaya Berry",
             "level": 100,
             "moves": [
@@ -5265,7 +5008,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Psychic",
@@ -5286,7 +5028,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Petaya Berry",
             "level": 100,
             "moves": [
@@ -5306,7 +5047,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Salac Berry",
             "level": 100,
             "moves": [
@@ -5326,7 +5066,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 170
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Blizzard",
@@ -5345,7 +5084,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Leftovers",
             "level": 100,
             "moves": [
@@ -5367,7 +5105,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Metal Claw",
@@ -5386,7 +5123,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Earthquake",
@@ -5407,7 +5143,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Persim Berry",
             "level": 100,
             "moves": [
@@ -5427,7 +5162,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Pecha Berry",
             "level": 100,
             "moves": [
@@ -5449,7 +5183,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Air Cutter",
@@ -5468,7 +5201,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Sludge Bomb",
@@ -5489,7 +5221,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Petaya Berry",
             "level": 100,
             "moves": [
@@ -5511,7 +5242,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Hydro Pump",
@@ -5530,7 +5260,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 170
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Cross Chop",
@@ -5549,7 +5278,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Hydro Pump",
@@ -5568,7 +5296,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Surf",
@@ -5589,7 +5316,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Earthquake",
@@ -5608,7 +5334,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Chesto Berry",
             "level": 100,
             "moves": [
@@ -5628,7 +5353,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Explosion",
@@ -5647,7 +5371,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Explosion",
@@ -5668,7 +5391,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Persim Berry",
             "level": 100,
             "moves": [
@@ -5688,7 +5410,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Surf",
@@ -5709,7 +5430,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Cheri Berry",
             "level": 100,
             "moves": [
@@ -5729,7 +5449,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "White Herb",
             "level": 100,
             "moves": [
@@ -5749,7 +5468,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Double-Edge",
@@ -5768,7 +5486,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Choice Band",
             "level": 100,
             "moves": [
@@ -5790,7 +5507,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -5810,7 +5526,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -5832,7 +5547,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Pecha Berry",
             "level": 100,
             "moves": [
@@ -5854,7 +5568,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -5874,7 +5587,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Giga Drain",
@@ -5895,7 +5607,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Rawst Berry",
             "level": 100,
             "moves": [
@@ -5917,7 +5628,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Petaya Berry",
             "level": 100,
             "moves": [
@@ -5937,7 +5647,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Psychic",
@@ -5958,7 +5667,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Toxic",
@@ -5979,7 +5687,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Return",
@@ -5998,7 +5705,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Hydro Pump",
@@ -6017,7 +5723,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Surf",
@@ -6036,7 +5741,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Chesto Berry",
             "level": 100,
             "moves": [
@@ -6056,7 +5760,6 @@ var SETDEX_ADV = {
                 "sd": 252,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Chesto Berry",
             "level": 100,
             "moves": [
@@ -6078,7 +5781,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -6098,7 +5800,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Cross Chop",
@@ -6117,7 +5818,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Cross Chop",
@@ -6136,7 +5836,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Cross Chop",
@@ -6157,7 +5856,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Persim Berry",
             "level": 100,
             "moves": [
@@ -6177,7 +5875,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Psychic",
@@ -6198,7 +5895,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -6218,7 +5914,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Megahorn",
@@ -6237,7 +5932,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -6257,7 +5951,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Salac Berry",
             "level": 100,
             "moves": [
@@ -6277,7 +5970,6 @@ var SETDEX_ADV = {
                 "sd": 100,
                 "sp": 152
             },
-            "isCustomSet": true,
             "item": "Salac Berry",
             "level": 100,
             "moves": [
@@ -6299,7 +5991,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "King's Rock",
             "level": 100,
             "moves": [
@@ -6319,7 +6010,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "King's Rock",
             "level": 100,
             "moves": [
@@ -6341,7 +6031,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Black Belt",
             "level": 100,
             "moves": [
@@ -6361,7 +6050,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Mega Kick",
@@ -6382,7 +6070,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Liechi Berry",
             "level": 100,
             "moves": [
@@ -6402,7 +6089,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -6424,7 +6110,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Persim Berry",
             "level": 100,
             "moves": [
@@ -6446,7 +6131,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Mega Drain",
@@ -6467,7 +6151,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Petaya Berry",
             "level": 100,
             "moves": [
@@ -6489,7 +6172,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 170
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -6509,7 +6191,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Fire Blast",
@@ -6528,7 +6209,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "White Herb",
             "level": 100,
             "moves": [
@@ -6548,7 +6228,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "White Herb",
             "level": 100,
             "moves": [
@@ -6570,7 +6249,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Charcoal",
             "level": 100,
             "moves": [
@@ -6592,7 +6270,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Persim Berry",
             "level": 100,
             "moves": [
@@ -6612,7 +6289,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Surf",
@@ -6633,7 +6309,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Twisted Spoon",
             "level": 100,
             "moves": [
@@ -6653,7 +6328,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Twisted Spoon",
             "level": 100,
             "moves": [
@@ -6673,7 +6347,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Psych Up",
@@ -6692,7 +6365,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Psychic",
@@ -6713,7 +6385,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -6735,7 +6406,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Liechi Berry",
             "level": 100,
             "moves": [
@@ -6755,7 +6425,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Petaya Berry",
             "level": 100,
             "moves": [
@@ -6777,7 +6446,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Persim Berry",
             "level": 100,
             "moves": [
@@ -6797,7 +6465,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -6819,7 +6486,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Sing",
@@ -6840,7 +6506,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Cheri Berry",
             "level": 100,
             "moves": [
@@ -6860,7 +6525,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Thunderbolt",
@@ -6879,7 +6543,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -6899,7 +6562,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "King's Rock",
             "level": 100,
             "moves": [
@@ -6921,7 +6583,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Aerial Ace",
@@ -6940,7 +6601,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Leftovers",
             "level": 100,
             "moves": [
@@ -6962,7 +6622,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Ice Beam",
@@ -6981,7 +6640,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -7001,7 +6659,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Dream Eater",
@@ -7020,7 +6677,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Psychic",
@@ -7041,7 +6697,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Sitrus Berry",
             "level": 100,
             "moves": [
@@ -7063,7 +6718,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Slash",
@@ -7082,7 +6736,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Salac Berry",
             "level": 100,
             "moves": [
@@ -7104,7 +6757,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Twisted Spoon",
             "level": 100,
             "moves": [
@@ -7124,7 +6776,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Twisted Spoon",
             "level": 100,
             "moves": [
@@ -7146,7 +6797,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Harden",
@@ -7167,7 +6817,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -7187,7 +6836,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Crush Claw",
@@ -7206,7 +6854,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Salac Berry",
             "level": 100,
             "moves": [
@@ -7226,7 +6873,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -7248,7 +6894,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -7268,7 +6913,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Choice Band",
             "level": 100,
             "moves": [
@@ -7290,7 +6934,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Hydro Pump",
@@ -7309,7 +6952,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Chesto Berry",
             "level": 100,
             "moves": [
@@ -7329,7 +6971,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Salac Berry",
             "level": 100,
             "moves": [
@@ -7349,7 +6990,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Chesto Berry",
             "level": 100,
             "moves": [
@@ -7371,7 +7011,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Crabhammer",
@@ -7390,7 +7029,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Salac Berry",
             "level": 100,
             "moves": [
@@ -7412,7 +7050,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "White Herb",
             "level": 100,
             "moves": [
@@ -7434,7 +7071,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Poison Barb",
             "level": 100,
             "moves": [
@@ -7456,7 +7092,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -7478,7 +7113,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Metal Coat",
             "level": 100,
             "moves": [
@@ -7498,7 +7132,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Sitrus Berry",
             "level": 100,
             "moves": [
@@ -7520,7 +7153,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Cheri Berry",
             "level": 100,
             "moves": [
@@ -7540,7 +7172,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Salac Berry",
             "level": 100,
             "moves": [
@@ -7560,7 +7191,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -7580,7 +7210,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Surf",
@@ -7601,7 +7230,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Leftovers",
             "level": 100,
             "moves": [
@@ -7621,7 +7249,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Surf",
@@ -7640,7 +7267,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -7660,7 +7286,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Surf",
@@ -7679,7 +7304,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Psychic",
@@ -7698,7 +7322,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -7718,7 +7341,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Leppa Berry",
             "level": 100,
             "moves": [
@@ -7738,7 +7360,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Sheer Cold",
@@ -7757,7 +7378,6 @@ var SETDEX_ADV = {
                 "sd": 152,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Ice Beam",
@@ -7778,7 +7398,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Persim Berry",
             "level": 100,
             "moves": [
@@ -7800,7 +7419,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Psychic",
@@ -7819,7 +7437,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Psychic",
@@ -7838,7 +7455,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -7858,7 +7474,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Leftovers",
             "level": 100,
             "moves": [
@@ -7878,7 +7493,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -7898,7 +7512,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Mist Ball",
@@ -7917,7 +7530,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Leftovers",
             "level": 100,
             "moves": [
@@ -7937,7 +7549,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 170
             },
-            "isCustomSet": true,
             "item": "King's Rock",
             "level": 100,
             "moves": [
@@ -7957,7 +7568,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 6
             },
-            "isCustomSet": true,
             "item": "Chesto Berry",
             "level": 100,
             "moves": [
@@ -7979,7 +7589,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Psychic",
@@ -7998,7 +7607,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Psychic",
@@ -8017,7 +7625,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -8037,7 +7644,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Luster Purge",
@@ -8056,7 +7662,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -8076,7 +7681,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Luster Purge",
@@ -8095,7 +7699,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -8115,7 +7718,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 170
             },
-            "isCustomSet": true,
             "item": "King's Rock",
             "level": 100,
             "moves": [
@@ -8135,7 +7737,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 6
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -8157,7 +7758,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -8179,7 +7779,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Sitrus Berry",
             "level": 100,
             "moves": [
@@ -8201,7 +7800,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Sitrus Berry",
             "level": 100,
             "moves": [
@@ -8221,7 +7819,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Cheri Berry",
             "level": 100,
             "moves": [
@@ -8243,7 +7840,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Ancient Power",
@@ -8264,7 +7860,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "White Herb",
             "level": 100,
             "moves": [
@@ -8284,7 +7879,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Choice Band",
             "level": 100,
             "moves": [
@@ -8306,7 +7900,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Water Pulse",
@@ -8327,7 +7920,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Rain Dance",
@@ -8348,7 +7940,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -8370,7 +7961,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Surf",
@@ -8389,7 +7979,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Surf",
@@ -8408,7 +7997,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Leftovers",
             "level": 100,
             "moves": [
@@ -8428,7 +8016,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Leftovers",
             "level": 100,
             "moves": [
@@ -8450,7 +8037,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Sitrus Berry",
             "level": 100,
             "moves": [
@@ -8470,7 +8056,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Psychic",
@@ -8491,7 +8076,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Sweet Kiss",
@@ -8512,7 +8096,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Cross Chop",
@@ -8531,7 +8114,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Chesto Berry",
             "level": 100,
             "moves": [
@@ -8551,7 +8133,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Cross Chop",
@@ -8570,7 +8151,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Cross Chop",
@@ -8589,7 +8169,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Cross Chop",
@@ -8608,7 +8187,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -8628,7 +8206,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -8648,7 +8225,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -8670,7 +8246,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -8690,7 +8265,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Cross Chop",
@@ -8711,7 +8285,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Seismic Toss",
@@ -8732,7 +8305,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Fire Punch",
@@ -8753,7 +8325,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Rock Slide",
@@ -8772,7 +8343,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Overheat",
@@ -8793,7 +8363,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -8815,7 +8384,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Rawst Berry",
             "level": 100,
             "moves": [
@@ -8835,7 +8403,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Fire Blast",
@@ -8854,7 +8421,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Mega Kick",
@@ -8873,7 +8439,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Flamethrower",
@@ -8894,7 +8459,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Rawst Berry",
             "level": 100,
             "moves": [
@@ -8916,7 +8480,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Cheri Berry",
             "level": 100,
             "moves": [
@@ -8936,7 +8499,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Thunder",
@@ -8957,7 +8519,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Fake Out",
@@ -8978,7 +8539,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Magnet",
             "level": 100,
             "moves": [
@@ -8998,7 +8558,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Petaya Berry",
             "level": 100,
             "moves": [
@@ -9018,7 +8577,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Thunderbolt",
@@ -9037,7 +8595,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Thunderbolt",
@@ -9058,7 +8615,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Black Belt",
             "level": 100,
             "moves": [
@@ -9080,7 +8636,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Mystic Water",
             "level": 100,
             "moves": [
@@ -9100,7 +8655,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Surf",
@@ -9121,7 +8675,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Cheri Berry",
             "level": 100,
             "moves": [
@@ -9143,7 +8696,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Mystic Water",
             "level": 100,
             "moves": [
@@ -9165,7 +8717,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Thick Club",
             "level": 100,
             "moves": [
@@ -9185,7 +8736,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Thick Club",
             "level": 100,
             "moves": [
@@ -9205,7 +8755,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Thick Club",
             "level": 100,
             "moves": [
@@ -9225,7 +8774,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Thick Club",
             "level": 100,
             "moves": [
@@ -9247,7 +8795,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -9267,7 +8814,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -9289,7 +8835,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Cheri Berry",
             "level": 100,
             "moves": [
@@ -9309,7 +8854,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Hydro Pump",
@@ -9330,7 +8874,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -9352,7 +8895,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -9372,7 +8914,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Salac Berry",
             "level": 100,
             "moves": [
@@ -9392,7 +8933,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Dynamic Punch",
@@ -9411,7 +8951,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Mega Kick",
@@ -9432,7 +8971,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Mental Herb",
             "level": 100,
             "moves": [
@@ -9454,7 +8992,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -9474,7 +9011,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Leftovers",
             "level": 100,
             "moves": [
@@ -9494,7 +9030,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Salac Berry",
             "level": 100,
             "moves": [
@@ -9514,7 +9049,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -9536,7 +9070,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Persim Berry",
             "level": 100,
             "moves": [
@@ -9558,7 +9091,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 170
             },
-            "isCustomSet": true,
             "item": "Leftovers",
             "level": 100,
             "moves": [
@@ -9578,7 +9110,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 170
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Earthquake",
@@ -9597,7 +9128,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 170
             },
-            "isCustomSet": true,
             "item": "Chesto Berry",
             "level": 100,
             "moves": [
@@ -9617,7 +9147,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Meteor Mash",
@@ -9636,7 +9165,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 170
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Explosion",
@@ -9655,7 +9183,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -9675,7 +9202,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Earthquake",
@@ -9694,7 +9220,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 170
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Meteor Mash",
@@ -9713,7 +9238,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Psychic",
@@ -9734,7 +9258,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -9754,7 +9277,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -9776,7 +9298,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Harden",
@@ -9797,7 +9318,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Mental Herb",
             "level": 100,
             "moves": [
@@ -9817,7 +9337,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "King's Rock",
             "level": 100,
             "moves": [
@@ -9839,7 +9358,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Hydro Pump",
@@ -9858,7 +9376,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -9878,7 +9395,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Leftovers",
             "level": 100,
             "moves": [
@@ -9898,7 +9414,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Leftovers",
             "level": 100,
             "moves": [
@@ -9918,7 +9433,6 @@ var SETDEX_ADV = {
                 "sd": 106,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Leftovers",
             "level": 100,
             "moves": [
@@ -9940,7 +9454,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -9960,7 +9473,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Leftovers",
             "level": 100,
             "moves": [
@@ -9980,7 +9492,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Salac Berry",
             "level": 100,
             "moves": [
@@ -10000,7 +9511,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Double-Edge",
@@ -10021,7 +9531,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Salac Berry",
             "level": 100,
             "moves": [
@@ -10041,7 +9550,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Salac Berry",
             "level": 100,
             "moves": [
@@ -10063,7 +9571,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -10083,7 +9590,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Leftovers",
             "level": 100,
             "moves": [
@@ -10103,7 +9609,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -10123,7 +9628,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Destiny Bond",
@@ -10144,7 +9648,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Flamethrower",
@@ -10163,7 +9666,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "White Herb",
             "level": 100,
             "moves": [
@@ -10183,7 +9685,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Chesto Berry",
             "level": 100,
             "moves": [
@@ -10203,7 +9704,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "White Herb",
             "level": 100,
             "moves": [
@@ -10223,7 +9723,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "White Herb",
             "level": 100,
             "moves": [
@@ -10243,7 +9742,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "White Herb",
             "level": 100,
             "moves": [
@@ -10265,7 +9763,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Leftovers",
             "level": 100,
             "moves": [
@@ -10285,7 +9782,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Liechi Berry",
             "level": 100,
             "moves": [
@@ -10305,7 +9801,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Choice Band",
             "level": 100,
             "moves": [
@@ -10325,7 +9820,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -10347,7 +9841,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -10369,7 +9862,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Poison Barb",
             "level": 100,
             "moves": [
@@ -10389,7 +9881,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Chesto Berry",
             "level": 100,
             "moves": [
@@ -10409,7 +9900,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Sludge Bomb",
@@ -10428,7 +9918,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Sludge Bomb",
@@ -10449,7 +9938,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Feint Attack",
@@ -10468,7 +9956,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -10490,7 +9977,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Twisted Spoon",
             "level": 100,
             "moves": [
@@ -10512,7 +9998,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Horn Drill",
@@ -10531,7 +10016,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Mega Kick",
@@ -10550,7 +10034,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Leppa Berry",
             "level": 100,
             "moves": [
@@ -10570,7 +10053,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Megahorn",
@@ -10591,7 +10073,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -10611,7 +10092,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Double-Edge",
@@ -10630,7 +10110,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Thunderbolt",
@@ -10649,7 +10128,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "White Herb",
             "level": 100,
             "moves": [
@@ -10671,7 +10149,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Sitrus Berry",
             "level": 100,
             "moves": [
@@ -10693,7 +10170,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Sitrus Berry",
             "level": 100,
             "moves": [
@@ -10715,7 +10191,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -10737,7 +10212,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -10759,7 +10233,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Pecha Berry",
             "level": 100,
             "moves": [
@@ -10781,7 +10254,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Rawst Berry",
             "level": 100,
             "moves": [
@@ -10801,7 +10273,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Heat Wave",
@@ -10820,7 +10291,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -10840,7 +10310,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "White Herb",
             "level": 100,
             "moves": [
@@ -10862,7 +10331,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Petaya Berry",
             "level": 100,
             "moves": [
@@ -10882,7 +10350,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -10904,7 +10371,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Persim Berry",
             "level": 100,
             "moves": [
@@ -10924,7 +10390,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Persim Berry",
             "level": 100,
             "moves": [
@@ -10946,7 +10411,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Hard Stone",
             "level": 100,
             "moves": [
@@ -10968,7 +10432,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Ember",
@@ -10989,7 +10452,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Sitrus Berry",
             "level": 100,
             "moves": [
@@ -11011,7 +10473,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Octazooka",
@@ -11030,7 +10491,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Octazooka",
@@ -11051,7 +10511,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Pecha Berry",
             "level": 100,
             "moves": [
@@ -11073,7 +10532,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Sitrus Berry",
             "level": 100,
             "moves": [
@@ -11095,7 +10553,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Bubble Beam",
@@ -11114,7 +10571,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Sitrus Berry",
             "level": 100,
             "moves": [
@@ -11136,7 +10592,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Sitrus Berry",
             "level": 100,
             "moves": [
@@ -11158,7 +10613,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Sitrus Berry",
             "level": 100,
             "moves": [
@@ -11180,7 +10634,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Sitrus Berry",
             "level": 100,
             "moves": [
@@ -11200,7 +10653,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Leftovers",
             "level": 100,
             "moves": [
@@ -11222,7 +10674,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Sitrus Berry",
             "level": 100,
             "moves": [
@@ -11242,7 +10693,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Surf",
@@ -11263,7 +10713,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Silk Scarf",
             "level": 100,
             "moves": [
@@ -11283,7 +10732,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Silk Scarf",
             "level": 100,
             "moves": [
@@ -11305,7 +10753,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Rollout",
@@ -11326,7 +10773,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Sitrus Berry",
             "level": 100,
             "moves": [
@@ -11348,7 +10794,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Sharp Beak",
             "level": 100,
             "moves": [
@@ -11368,7 +10813,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Return",
@@ -11389,7 +10833,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "White Herb",
             "level": 100,
             "moves": [
@@ -11411,7 +10854,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Sharp Beak",
             "level": 100,
             "moves": [
@@ -11433,7 +10875,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Light Ball",
             "level": 100,
             "moves": [
@@ -11455,7 +10896,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Soft Sand",
             "level": 100,
             "moves": [
@@ -11475,7 +10915,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Earthquake",
@@ -11496,7 +10935,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -11518,7 +10956,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Black Belt",
             "level": 100,
             "moves": [
@@ -11538,7 +10975,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Salac Berry",
             "level": 100,
             "moves": [
@@ -11560,7 +10996,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Petaya Berry",
             "level": 100,
             "moves": [
@@ -11580,7 +11015,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Petaya Berry",
             "level": 100,
             "moves": [
@@ -11602,7 +11036,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Dive",
@@ -11621,7 +11054,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Surf",
@@ -11642,7 +11074,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Mystic Water",
             "level": 100,
             "moves": [
@@ -11664,7 +11095,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Petaya Berry",
             "level": 100,
             "moves": [
@@ -11686,7 +11116,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Black Belt",
             "level": 100,
             "moves": [
@@ -11706,7 +11135,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Chesto Berry",
             "level": 100,
             "moves": [
@@ -11728,7 +11156,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Rawst Berry",
             "level": 100,
             "moves": [
@@ -11748,7 +11175,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Sitrus Berry",
             "level": 100,
             "moves": [
@@ -11770,7 +11196,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Petaya Berry",
             "level": 100,
             "moves": [
@@ -11792,7 +11217,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Sitrus Berry",
             "level": 100,
             "moves": [
@@ -11812,7 +11236,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Cheri Berry",
             "level": 100,
             "moves": [
@@ -11834,7 +11257,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Leftovers",
             "level": 100,
             "moves": [
@@ -11854,7 +11276,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Solar Beam",
@@ -11873,7 +11294,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Psychic",
@@ -11892,7 +11312,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -11914,7 +11333,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Karate Chop",
@@ -11933,7 +11351,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Cross Chop",
@@ -11954,7 +11371,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Persim Berry",
             "level": 100,
             "moves": [
@@ -11976,7 +11392,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Soft Sand",
             "level": 100,
             "moves": [
@@ -11996,7 +11411,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Earthquake",
@@ -12017,7 +11431,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -12037,7 +11450,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Leftovers",
             "level": 100,
             "moves": [
@@ -12057,7 +11469,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Earthquake",
@@ -12076,7 +11487,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Leftovers",
             "level": 100,
             "moves": [
@@ -12098,7 +11508,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -12118,7 +11527,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -12140,7 +11548,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Cheri Berry",
             "level": 100,
             "moves": [
@@ -12160,7 +11567,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -12182,7 +11588,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 170
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -12202,7 +11607,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Thunderbolt",
@@ -12221,7 +11625,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Cheri Berry",
             "level": 100,
             "moves": [
@@ -12241,7 +11644,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -12263,7 +11665,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Chesto Berry",
             "level": 100,
             "moves": [
@@ -12283,7 +11684,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -12303,7 +11703,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "King's Rock",
             "level": 100,
             "moves": [
@@ -12323,7 +11722,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Thunderbolt",
@@ -12342,7 +11740,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -12362,7 +11759,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Chesto Berry",
             "level": 100,
             "moves": [
@@ -12382,7 +11778,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 100
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Thunderbolt",
@@ -12403,7 +11798,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Twisted Spoon",
             "level": 100,
             "moves": [
@@ -12425,7 +11819,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Charcoal",
             "level": 100,
             "moves": [
@@ -12445,7 +11838,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 170
             },
-            "isCustomSet": true,
             "item": "Leftovers",
             "level": 100,
             "moves": [
@@ -12465,7 +11857,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 170
             },
-            "isCustomSet": true,
             "item": "White Herb",
             "level": 100,
             "moves": [
@@ -12485,7 +11876,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 170
             },
-            "isCustomSet": true,
             "item": "White Herb",
             "level": 100,
             "moves": [
@@ -12507,7 +11897,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 170
             },
-            "isCustomSet": true,
             "item": "Silk Scarf",
             "level": 100,
             "moves": [
@@ -12527,7 +11916,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -12549,7 +11937,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "King's Rock",
             "level": 100,
             "moves": [
@@ -12571,7 +11958,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Chesto Berry",
             "level": 100,
             "moves": [
@@ -12591,7 +11977,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -12611,7 +11996,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Ice Beam",
@@ -12630,7 +12014,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Leftovers",
             "level": 100,
             "moves": [
@@ -12650,7 +12033,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Leftovers",
             "level": 100,
             "moves": [
@@ -12670,7 +12052,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Chesto Berry",
             "level": 100,
             "moves": [
@@ -12690,7 +12071,6 @@ var SETDEX_ADV = {
                 "sd": 152,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Chesto Berry",
             "level": 100,
             "moves": [
@@ -12712,7 +12092,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "White Herb",
             "level": 100,
             "moves": [
@@ -12732,7 +12111,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Earthquake",
@@ -12751,7 +12129,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Chesto Berry",
             "level": 100,
             "moves": [
@@ -12771,7 +12148,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Leftovers",
             "level": 100,
             "moves": [
@@ -12791,7 +12167,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Hyper Beam",
@@ -12810,7 +12185,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -12830,7 +12204,6 @@ var SETDEX_ADV = {
                 "sd": 100,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Explosion",
@@ -12851,7 +12224,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Chesto Berry",
             "level": 100,
             "moves": [
@@ -12871,7 +12243,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -12891,7 +12262,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Ancient Power",
@@ -12910,7 +12280,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Leftovers",
             "level": 100,
             "moves": [
@@ -12930,7 +12299,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Leftovers",
             "level": 100,
             "moves": [
@@ -12950,7 +12318,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "White Herb",
             "level": 100,
             "moves": [
@@ -12970,7 +12337,6 @@ var SETDEX_ADV = {
                 "sd": 200,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Leftovers",
             "level": 100,
             "moves": [
@@ -12992,7 +12358,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Liechi Berry",
             "level": 100,
             "moves": [
@@ -13012,7 +12377,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Chesto Berry",
             "level": 100,
             "moves": [
@@ -13034,7 +12398,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Petaya Berry",
             "level": 100,
             "moves": [
@@ -13056,7 +12419,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Earthquake",
@@ -13075,7 +12437,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Earthquake",
@@ -13094,7 +12455,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Megahorn",
@@ -13113,7 +12473,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Megahorn",
@@ -13134,7 +12493,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -13156,7 +12514,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Pecha Berry",
             "level": 100,
             "moves": [
@@ -13176,7 +12533,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Giga Drain",
@@ -13197,7 +12553,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Black Glasses",
             "level": 100,
             "moves": [
@@ -13217,7 +12572,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Shadow Ball",
@@ -13238,7 +12592,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "King's Rock",
             "level": 100,
             "moves": [
@@ -13258,7 +12611,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 170
             },
-            "isCustomSet": true,
             "item": "Leftovers",
             "level": 100,
             "moves": [
@@ -13278,7 +12630,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Salac Berry",
             "level": 100,
             "moves": [
@@ -13298,7 +12649,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -13318,7 +12668,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -13338,7 +12687,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Headbutt",
@@ -13357,7 +12705,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Flamethrower",
@@ -13376,7 +12723,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Leftovers",
             "level": 100,
             "moves": [
@@ -13396,7 +12742,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 100
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Earthquake",
@@ -13417,7 +12762,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Soft Sand",
             "level": 100,
             "moves": [
@@ -13439,7 +12783,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Sitrus Berry",
             "level": 100,
             "moves": [
@@ -13459,7 +12802,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Earthquake",
@@ -13480,7 +12822,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Leftovers",
             "level": 100,
             "moves": [
@@ -13500,7 +12841,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Leaf Blade",
@@ -13519,7 +12859,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 170
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Leaf Blade",
@@ -13538,7 +12877,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -13560,7 +12898,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -13580,7 +12917,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Silver Wind",
@@ -13599,7 +12935,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -13619,7 +12954,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -13641,7 +12975,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Liechi Berry",
             "level": 100,
             "moves": [
@@ -13661,7 +12994,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -13683,7 +13015,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Mystic Water",
             "level": 100,
             "moves": [
@@ -13703,7 +13034,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Hydro Pump",
@@ -13724,7 +13054,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Sitrus Berry",
             "level": 100,
             "moves": [
@@ -13744,7 +13073,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Horn Drill",
@@ -13765,7 +13093,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Persim Berry",
             "level": 100,
             "moves": [
@@ -13785,7 +13112,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Sitrus Berry",
             "level": 100,
             "moves": [
@@ -13807,7 +13133,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -13829,7 +13154,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Aspear Berry",
             "level": 100,
             "moves": [
@@ -13851,7 +13175,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "King's Rock",
             "level": 100,
             "moves": [
@@ -13873,7 +13196,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Poison Tail",
@@ -13892,7 +13214,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Sludge Bomb",
@@ -13911,7 +13232,6 @@ var SETDEX_ADV = {
                 "sd": 6,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -13931,7 +13251,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Swagger",
@@ -13952,7 +13271,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Slash",
@@ -13971,7 +13289,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 170
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Double-Edge",
@@ -13992,7 +13309,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Shadow Ball",
@@ -14011,7 +13327,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 252
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -14033,7 +13348,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Cheri Berry",
             "level": 100,
             "moves": [
@@ -14053,7 +13367,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -14075,7 +13388,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Cheri Berry",
             "level": 100,
             "moves": [
@@ -14097,7 +13409,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Miracle Seed",
             "level": 100,
             "moves": [
@@ -14117,7 +13428,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Chesto Berry",
             "level": 100,
             "moves": [
@@ -14137,7 +13447,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -14157,7 +13466,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -14179,7 +13487,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Miracle Seed",
             "level": 100,
             "moves": [
@@ -14201,7 +13508,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Chesto Berry",
             "level": 100,
             "moves": [
@@ -14221,7 +13527,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Leftovers",
             "level": 100,
             "moves": [
@@ -14241,7 +13546,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Leftovers",
             "level": 100,
             "moves": [
@@ -14261,7 +13565,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Chesto Berry",
             "level": 100,
             "moves": [
@@ -14281,7 +13584,6 @@ var SETDEX_ADV = {
                 "sd": 252,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Chesto Berry",
             "level": 100,
             "moves": [
@@ -14303,7 +13605,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Rawst Berry",
             "level": 100,
             "moves": [
@@ -14325,7 +13626,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Harden",
@@ -14346,7 +13646,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Steel Wing",
@@ -14365,7 +13664,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -14385,7 +13683,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Chesto Berry",
             "level": 100,
             "moves": [
@@ -14405,7 +13702,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Drill Peck",
@@ -14426,7 +13722,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Persim Berry",
             "level": 100,
             "moves": [
@@ -14448,7 +13743,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -14470,7 +13764,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Yawn",
@@ -14489,7 +13782,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Leftovers",
             "level": 100,
             "moves": [
@@ -14509,7 +13801,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Choice Band",
             "level": 100,
             "moves": [
@@ -14529,7 +13820,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Thunderbolt",
@@ -14548,7 +13838,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 252
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Hyper Beam",
@@ -14567,7 +13856,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 106
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Earthquake",
@@ -14588,7 +13876,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Leftovers",
             "level": 100,
             "moves": [
@@ -14610,7 +13897,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Surf",
@@ -14629,7 +13915,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Leftovers",
             "level": 100,
             "moves": [
@@ -14649,7 +13934,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Surf",
@@ -14668,7 +13952,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Psychic",
@@ -14689,7 +13972,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Leftovers",
             "level": 100,
             "moves": [
@@ -14709,7 +13991,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Yawn",
@@ -14728,7 +14009,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Psychic",
@@ -14747,7 +14027,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Psychic",
@@ -14768,7 +14047,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Sitrus Berry",
             "level": 100,
             "moves": [
@@ -14790,7 +14068,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Sitrus Berry",
             "level": 100,
             "moves": [
@@ -14812,7 +14089,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "King's Rock",
             "level": 100,
             "moves": [
@@ -14834,7 +14110,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -14856,7 +14131,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Persim Berry",
             "level": 100,
             "moves": [
@@ -14876,7 +14150,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 170
             },
-            "isCustomSet": true,
             "item": "King's Rock",
             "level": 100,
             "moves": [
@@ -14898,7 +14171,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Leftovers",
             "level": 100,
             "moves": [
@@ -14918,7 +14190,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Chesto Berry",
             "level": 100,
             "moves": [
@@ -14938,7 +14209,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Mega Kick",
@@ -14957,7 +14227,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Double-Edge",
@@ -14976,7 +14245,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Mega Kick",
@@ -14995,7 +14263,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Leftovers",
             "level": 100,
             "moves": [
@@ -15015,7 +14282,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Hyper Beam",
@@ -15034,7 +14300,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Chesto Berry",
             "level": 100,
             "moves": [
@@ -15054,7 +14319,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Chesto Berry",
             "level": 100,
             "moves": [
@@ -15074,7 +14338,6 @@ var SETDEX_ADV = {
                 "sd": 100,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Body Slam",
@@ -15095,7 +14358,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Persim Berry",
             "level": 100,
             "moves": [
@@ -15117,7 +14379,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Bite",
@@ -15138,7 +14399,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Sitrus Berry",
             "level": 100,
             "moves": [
@@ -15158,7 +14418,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "White Herb",
             "level": 100,
             "moves": [
@@ -15180,7 +14439,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Liechi Berry",
             "level": 100,
             "moves": [
@@ -15202,7 +14460,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Ice Ball",
@@ -15223,7 +14480,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Liechi Berry",
             "level": 100,
             "moves": [
@@ -15245,7 +14501,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Sitrus Berry",
             "level": 100,
             "moves": [
@@ -15267,7 +14522,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Sitrus Berry",
             "level": 100,
             "moves": [
@@ -15289,7 +14543,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Sitrus Berry",
             "level": 100,
             "moves": [
@@ -15311,7 +14564,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Twisted Spoon",
             "level": 100,
             "moves": [
@@ -15331,7 +14583,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Frustration",
@@ -15352,7 +14603,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Psychic",
@@ -15371,7 +14621,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Hydro Pump",
@@ -15390,7 +14639,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Surf",
@@ -15409,7 +14657,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Psychic",
@@ -15428,7 +14675,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Surf",
@@ -15447,7 +14693,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Leftovers",
             "level": 100,
             "moves": [
@@ -15467,7 +14712,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -15487,7 +14731,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -15509,7 +14752,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Bubble Beam",
@@ -15530,7 +14772,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Sitrus Berry",
             "level": 100,
             "moves": [
@@ -15550,7 +14791,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Leftovers",
             "level": 100,
             "moves": [
@@ -15570,7 +14810,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Earthquake",
@@ -15589,7 +14828,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Earthquake",
@@ -15608,7 +14846,6 @@ var SETDEX_ADV = {
                 "sd": 252,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -15630,7 +14867,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Hard Stone",
             "level": 100,
             "moves": [
@@ -15650,7 +14886,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -15672,7 +14907,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Chesto Berry",
             "level": 100,
             "moves": [
@@ -15692,7 +14926,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Leftovers",
             "level": 100,
             "moves": [
@@ -15712,7 +14945,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Surf",
@@ -15731,7 +14963,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -15751,7 +14982,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Surf",
@@ -15770,7 +15000,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Chesto Berry",
             "level": 100,
             "moves": [
@@ -15790,7 +15019,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 6
             },
-            "isCustomSet": true,
             "item": "King's Rock",
             "level": 100,
             "moves": [
@@ -15812,7 +15040,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Persim Berry",
             "level": 100,
             "moves": [
@@ -15832,7 +15059,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Leftovers",
             "level": 100,
             "moves": [
@@ -15854,7 +15080,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Mega Drain",
@@ -15875,7 +15100,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Mystic Water",
             "level": 100,
             "moves": [
@@ -15897,7 +15121,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Mental Herb",
             "level": 100,
             "moves": [
@@ -15919,7 +15142,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Stockpile",
@@ -15938,7 +15160,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Leftovers",
             "level": 100,
             "moves": [
@@ -15960,7 +15181,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Earthquake",
@@ -15979,7 +15199,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Surf",
@@ -15998,7 +15217,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Surf",
@@ -16017,7 +15235,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Surf",
@@ -16036,7 +15253,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Leftovers",
             "level": 100,
             "moves": [
@@ -16056,7 +15272,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -16078,7 +15293,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "King's Rock",
             "level": 100,
             "moves": [
@@ -16098,7 +15312,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "King's Rock",
             "level": 100,
             "moves": [
@@ -16120,7 +15333,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Sitrus Berry",
             "level": 100,
             "moves": [
@@ -16142,7 +15354,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 170
             },
-            "isCustomSet": true,
             "item": "Salac Berry",
             "level": 100,
             "moves": [
@@ -16164,7 +15375,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Mega Drain",
@@ -16183,7 +15393,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Chesto Berry",
             "level": 100,
             "moves": [
@@ -16205,7 +15414,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Persim Berry",
             "level": 100,
             "moves": [
@@ -16225,7 +15433,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Chesto Berry",
             "level": 100,
             "moves": [
@@ -16245,7 +15452,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Leftovers",
             "level": 100,
             "moves": [
@@ -16265,7 +15471,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -16287,7 +15492,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Chesto Berry",
             "level": 100,
             "moves": [
@@ -16309,7 +15513,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Pecha Berry",
             "level": 100,
             "moves": [
@@ -16331,7 +15534,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Persim Berry",
             "level": 100,
             "moves": [
@@ -16351,7 +15553,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Leftovers",
             "level": 100,
             "moves": [
@@ -16371,7 +15572,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 170
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Surf",
@@ -16390,7 +15590,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Hydro Pump",
@@ -16411,7 +15610,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Return",
@@ -16432,7 +15630,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Aerial Ace",
@@ -16451,7 +15648,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Return",
@@ -16472,7 +15668,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -16494,7 +15689,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Sitrus Berry",
             "level": 100,
             "moves": [
@@ -16514,7 +15708,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "White Herb",
             "level": 100,
             "moves": [
@@ -16536,7 +15729,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Slash",
@@ -16557,7 +15749,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Toxic",
@@ -16578,7 +15769,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Bullet Seed",
@@ -16599,7 +15789,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Sitrus Berry",
             "level": 100,
             "moves": [
@@ -16619,7 +15808,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -16641,7 +15829,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -16661,7 +15848,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 170
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Flamethrower",
@@ -16680,7 +15866,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Salac Berry",
             "level": 100,
             "moves": [
@@ -16700,7 +15885,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 170
             },
-            "isCustomSet": true,
             "item": "White Herb",
             "level": 100,
             "moves": [
@@ -16722,7 +15906,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -16742,7 +15925,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Double-Edge",
@@ -16761,7 +15943,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -16781,7 +15962,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -16801,7 +15981,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Crunch",
@@ -16820,7 +15999,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Chesto Berry",
             "level": 100,
             "moves": [
@@ -16840,7 +16018,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Chesto Berry",
             "level": 100,
             "moves": [
@@ -16860,7 +16037,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Rock Slide",
@@ -16879,7 +16055,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Rock Slide",
@@ -16898,7 +16073,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Crunch",
@@ -16919,7 +16093,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -16941,7 +16114,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -16961,7 +16133,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Leftovers",
             "level": 100,
             "moves": [
@@ -16981,7 +16152,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -17001,7 +16171,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Leftovers",
             "level": 100,
             "moves": [
@@ -17021,7 +16190,6 @@ var SETDEX_ADV = {
                 "sd": 6,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Chesto Berry",
             "level": 100,
             "moves": [
@@ -17041,7 +16209,6 @@ var SETDEX_ADV = {
                 "sd": 106,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Leftovers",
             "level": 100,
             "moves": [
@@ -17063,7 +16230,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Hidden Power",
@@ -17084,7 +16250,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Mega Kick",
@@ -17103,7 +16268,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Double-Edge",
@@ -17122,7 +16286,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 170
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Fire Punch",
@@ -17141,7 +16304,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -17161,7 +16323,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Choice Band",
             "level": 100,
             "moves": [
@@ -17181,7 +16342,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -17201,7 +16361,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Facade",
@@ -17220,7 +16379,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Facade",
@@ -17241,7 +16399,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Mystic Water",
             "level": 100,
             "moves": [
@@ -17261,7 +16418,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Surf",
@@ -17280,7 +16436,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Surf",
@@ -17299,7 +16454,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Surf",
@@ -17320,7 +16474,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Persim Berry",
             "level": 100,
             "moves": [
@@ -17340,7 +16493,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Signal Beam",
@@ -17361,7 +16513,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Sitrus Berry",
             "level": 100,
             "moves": [
@@ -17383,7 +16534,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Chesto Berry",
             "level": 100,
             "moves": [
@@ -17403,7 +16553,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -17423,7 +16572,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Double-Edge",
@@ -17442,7 +16590,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Solar Beam",
@@ -17463,7 +16610,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Cheri Berry",
             "level": 100,
             "moves": [
@@ -17485,7 +16631,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Sitrus Berry",
             "level": 100,
             "moves": [
@@ -17505,7 +16650,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Leftovers",
             "level": 100,
             "moves": [
@@ -17525,7 +16669,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -17545,7 +16688,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -17567,7 +16709,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -17587,7 +16728,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Salac Berry",
             "level": 100,
             "moves": [
@@ -17609,7 +16749,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Persim Berry",
             "level": 100,
             "moves": [
@@ -17629,7 +16768,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -17649,7 +16787,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Leftovers",
             "level": 100,
             "moves": [
@@ -17669,7 +16806,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Solar Beam",
@@ -17690,7 +16826,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Liechi Berry",
             "level": 100,
             "moves": [
@@ -17710,7 +16845,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Petaya Berry",
             "level": 100,
             "moves": [
@@ -17732,7 +16866,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Spark",
@@ -17753,7 +16886,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Rawst Berry",
             "level": 100,
             "moves": [
@@ -17775,7 +16907,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Whirlpool",
@@ -17794,7 +16925,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Chesto Berry",
             "level": 100,
             "moves": [
@@ -17816,7 +16946,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Surf",
@@ -17835,7 +16964,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Chesto Berry",
             "level": 100,
             "moves": [
@@ -17855,7 +16983,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Chesto Berry",
             "level": 100,
             "moves": [
@@ -17875,7 +17002,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Surf",
@@ -17896,7 +17022,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Leftovers",
             "level": 100,
             "moves": [
@@ -17916,7 +17041,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -17936,7 +17060,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Sheer Cold",
@@ -17955,7 +17078,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -17977,7 +17099,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -17997,7 +17118,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Surf",
@@ -18018,7 +17138,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -18040,7 +17159,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Razor Leaf",
@@ -18059,7 +17177,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Sludge Bomb",
@@ -18080,7 +17197,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -18100,7 +17216,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Sitrus Berry",
             "level": 100,
             "moves": [
@@ -18120,7 +17235,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -18140,7 +17254,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -18162,7 +17275,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Chesto Berry",
             "level": 100,
             "moves": [
@@ -18182,7 +17294,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Surf",
@@ -18201,7 +17312,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Chesto Berry",
             "level": 100,
             "moves": [
@@ -18221,7 +17331,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Fissure",
@@ -18242,7 +17351,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Cheri Berry",
             "level": 100,
             "moves": [
@@ -18264,7 +17372,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Silk Scarf",
             "level": 100,
             "moves": [
@@ -18284,7 +17391,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Sitrus Berry",
             "level": 100,
             "moves": [
@@ -18306,7 +17412,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Persim Berry",
             "level": 100,
             "moves": [
@@ -18328,7 +17433,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -18348,7 +17452,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Focus Band",
             "level": 100,
             "moves": [
@@ -18370,7 +17473,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Sitrus Berry",
             "level": 100,
             "moves": [
@@ -18392,7 +17494,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Tackle",
@@ -18413,7 +17514,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Encore",
@@ -18434,7 +17534,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Sharp Beak",
             "level": 100,
             "moves": [
@@ -18454,7 +17553,6 @@ var SETDEX_ADV = {
                 "sd": 170,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Leftovers",
             "level": 100,
             "moves": [
@@ -18474,7 +17572,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 170
             },
-            "isCustomSet": true,
             "item": "King's Rock",
             "level": 100,
             "moves": [
@@ -18494,7 +17591,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Petaya Berry",
             "level": 100,
             "moves": [
@@ -18516,7 +17612,6 @@ var SETDEX_ADV = {
                 "sd": 255,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Signal Beam",
@@ -18537,7 +17632,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Persim Berry",
             "level": 100,
             "moves": [
@@ -18557,7 +17651,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Crush Claw",
@@ -18578,7 +17671,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Thunderbolt",
@@ -18597,7 +17689,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 255
             },
-            "isCustomSet": true,
             "item": "Bright Powder",
             "level": 100,
             "moves": [
@@ -18617,7 +17708,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 170
             },
-            "isCustomSet": true,
             "item": "Leftovers",
             "level": 100,
             "moves": [
@@ -18637,7 +17727,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Thunderbolt",
@@ -18656,7 +17745,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Thunderbolt",
@@ -18675,7 +17763,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 170
             },
-            "isCustomSet": true,
             "level": 100,
             "moves": [
                 "Thunder",
@@ -18696,7 +17783,6 @@ var SETDEX_ADV = {
                 "sd": 0,
                 "sp": 0
             },
-            "isCustomSet": true,
             "item": "Silk Scarf",
             "level": 100,
             "moves": [
@@ -18717,9 +17803,8 @@ var SETDEX_ADV = {
                 "sa": 0,
                 "sd": 0,
                 "sp": 0
-            },
-            "isCustomSet": true,
             "item": "Cheri Berry",
+            },
             "level": 100,
             "moves": [
                 "Poison Fang",
