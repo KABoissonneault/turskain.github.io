@@ -385,21 +385,21 @@ $(".set-selector").change(function () {
 		var itemObj = pokeObj.find(".item");
 
 
-    //HACK! blame turskain for this
-    this.ivsoverride = ~~pokeObj.find(".ivsoverride").val();
-				if (this.ivsoverride <= 31) {
-				  var ivsoverride = this.ivsoverride
-				} else {
-					var ivsoverride = 31
+        //HACK! blame turskain for this
+        this.ivsoverride = ~~pokeObj.find(".ivsoverride").val();
+		if (this.ivsoverride <= 31) {
+		    var ivsoverride = this.ivsoverride
+		} else {
+			var ivsoverride = 31
         }
-    //HACK! level override button
+        //HACK! level override button
 		this.leveloverride = ~~document.getElementById("leveloverride").value;
-				if ( (this.leveloverride !== 50 ) || (this.leveloverride !== 55 )) {
-				  var leveloverride = this.leveloverride
-				} else {
-					var leveloverride = 50
+		if ( (this.leveloverride !== 50 ) || (this.leveloverride !== 55 )) {
+		    var leveloverride = this.leveloverride
+		} else {
+			var leveloverride = 50
         }
-    //HACK! following section: ivsoverride replaces the usual "31" being filled in, leveloverride same thing
+        //HACK! following section: ivsoverride replaces the usual "31" being filled in, leveloverride same thing
 
 		if (pokemonName in setdex && setName in setdex[pokemonName]) {
 			var set = setdex[pokemonName][setName];
@@ -1110,4 +1110,18 @@ $(document).ready(function () {
 	$(".set-selector").val(getSetOptions()[gen < 3 ? 3 : 1].id);
 	$(".set-selector").change();
     	$(".terrain-trigger").bind("change keyup", getTerrainEffects);
+});
+
+$(".ivsoverride").change(function() {
+    var ivTier = $(this).val();
+    
+    var poke = $(this).closest(".poke-info");
+    
+    poke.find(".hp .ivs").val(ivTier);
+    for (i = 0; i < STATS.length; i++) {
+        poke.find("." + STATS[i] + " .ivs").val(ivTier);
+    }
+    
+    calcHP(poke);
+    calcStats(poke);
 });
