@@ -62,33 +62,68 @@ $(".level").keyup(function () {
 	var poke = $(this).closest(".poke-info");
 	calcHP(poke);
 	calcStats(poke);
+	calcBoosts(poke);
 });
 $(".nature").bind("keyup change", function () {
-	calcStats($(this).closest(".poke-info"));
+	var poke = $(this).closest(".poke-info");
+	calcStats(poke);
+	calcBoosts(poke);
 });
 $(".hp .base, .hp .evs, .hp .ivs").bind("keyup change", function () {
 	calcHP($(this).closest(".poke-info"));
 });
 $(".at .base, .at .evs, .at .ivs").bind("keyup change", function () {
-	calcStat($(this).closest(".poke-info"), 'at');
+	var poke = $(this).closest(".poke-info");
+	calcStat(poke, 'at');
+	calcBoosted(poke, 'at');
 });
 $(".df .base, .df .evs, .df .ivs").bind("keyup change", function () {
-	calcStat($(this).closest(".poke-info"), 'df');
+	var poke = $(this).closest(".poke-info");
+	calcStat(poke, 'df');
+	calcBoosted(poke, 'df');
 });
 $(".sa .base, .sa .evs, .sa .ivs").bind("keyup change", function () {
-	calcStat($(this).closest(".poke-info"), 'sa');
+	var poke = $(this).closest(".poke-info");
+	calcStat(poke, 'sa');
+	calcBoosted(poke, 'sa');
 });
 $(".sd .base, .sd .evs, .sd .ivs").bind("keyup change", function () {
-	calcStat($(this).closest(".poke-info"), 'sd');
+	var poke = $(this).closest(".poke-info");
+	calcStat(poke, 'sd');
+	calcBoosted(poke, 'sd');
 });
 $(".sp .base, .sp .evs, .sp .ivs").bind("keyup change", function () {
-	calcStat($(this).closest(".poke-info"), 'sp');
+	var poke = $(this).closest(".poke-info");
+	calcStat(poke, 'sp');
+	calcBoosted(poke, 'sp');
+});
+$(".at .boost").bind("keyup change", function () {
+	var poke = $(this).closest(".poke-info");
+	calcBoosted(poke, 'at');
+});
+$(".df .boost").bind("keyup change", function () {
+	var poke = $(this).closest(".poke-info");
+	calcBoosted(poke, 'df');
+});
+$(".sa .boost").bind("keyup change", function () {
+	var poke = $(this).closest(".poke-info");
+	calcBoosted(poke, 'sa');
+});
+$(".sd .boost").bind("keyup change", function () {
+	var poke = $(this).closest(".poke-info");
+	calcBoosted(poke, 'sd');
+});
+$(".sp .boost").bind("keyup change", function () {
+	var poke = $(this).closest(".poke-info");
+	calcBoosted(poke, 'sp');
 });
 $(".evs").bind("keyup change", function () {
 	calcEvTotal($(this).closest(".poke-info"));
 });
 $(".sl .base").keyup(function () {
-	calcStat($(this).closest(".poke-info"), 'sl');
+	var poke = $(this).closest(".poke-info");
+	calcStat(poke, 'sl');
+	calcBoosted(poke, 'sl')
 });
 $(".at .dvs").keyup(function () {
 	var poke = $(this).closest(".poke-info");
@@ -133,6 +168,12 @@ function getHPDVs(poke) {
 function calcStats(poke) {
 	for (var i = 0; i < STATS.length; i++) {
 		calcStat(poke, STATS[i]);
+	}
+}
+
+function calcBoosts(poke) {
+	for (var i = 0; i < STATS.length; i++) {
+		calcBoosted(poke, STATS[i]);
 	}
 }
 
@@ -451,6 +492,7 @@ $(".set-selector").change(function () {
 		}
 		calcHP(pokeObj);
 		calcStats(pokeObj);
+		calcBoosts(pokeObj);
 		calcEvTotal(pokeObj);
 		abilityObj.change();
 		itemObj.change();
@@ -781,6 +823,7 @@ $(".gen").change(function () {
 		STATS = STATS_RBY;
 		calcHP = CALC_HP_RBY;
 		calcStat = CALC_STAT_RBY;
+		calcBoosted = CALC_BOOSTED_ADV;
 		break;
 	case 2:
 		pokedex = POKEDEX_GSC;
@@ -792,6 +835,7 @@ $(".gen").change(function () {
 		STATS = STATS_GSC;
 		calcHP = CALC_HP_RBY;
 		calcStat = CALC_STAT_RBY;
+		calcBoosted = CALC_BOOSTED_ADV;
 		break;
 	case 3:
 		pokedex = POKEDEX_ADV;
@@ -803,6 +847,7 @@ $(".gen").change(function () {
 		STATS = STATS_GSC;
 		calcHP = CALC_HP_ADV;
 		calcStat = CALC_STAT_ADV;
+		calcBoosted = CALC_BOOSTED_ADV;
 		break;
 	case 4:
 		pokedex = POKEDEX_DPP;
@@ -814,6 +859,7 @@ $(".gen").change(function () {
 		STATS = STATS_GSC;
 		calcHP = CALC_HP_ADV;
 		calcStat = CALC_STAT_ADV;
+		calcBoosted = CALC_BOOSTED_ADV;
 		break;
 	case 5:
 		pokedex = POKEDEX_BW;
@@ -825,6 +871,7 @@ $(".gen").change(function () {
 		STATS = STATS_GSC;
 		calcHP = CALC_HP_ADV;
 		calcStat = CALC_STAT_ADV;
+		calcBoosted = CALC_BOOSTED_ADV;
 		break;
 	case 6:
 		pokedex = POKEDEX_XY;
@@ -836,6 +883,7 @@ $(".gen").change(function () {
 		STATS = STATS_GSC;
 		calcHP = CALC_HP_ADV;
 		calcStat = CALC_STAT_ADV;
+		calcBoosted = CALC_BOOSTED_ADV;
 		break;
 	default:
 		pokedex = POKEDEX_SM;
@@ -847,6 +895,7 @@ $(".gen").change(function () {
 		STATS = STATS_GSC;
 		calcHP = CALC_HP_ADV;
 		calcStat = CALC_STAT_ADV;
+		calcBoosted = CALC_BOOSTED_ADV;
 	}
 	clearField();
 	$("#importedSets").prop("checked", false);
@@ -1124,4 +1173,5 @@ $(".ivsoverride").change(function() {
     
     calcHP(poke);
     calcStats(poke);
+    calcBoosts(poke);
 });
