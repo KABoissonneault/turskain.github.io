@@ -488,6 +488,13 @@ var MOVES_RBY = {
         category: 'Special',
         pp: 15
     },
+    'Petal Dance': {
+        bp: 120,
+        type: 'Grass',
+        category: 'Special',
+        makesContact: true,
+        pp: 10
+},
     'Pin Missile': {
         bp: 14,
         type: 'Bug',
@@ -3214,13 +3221,6 @@ var MOVES_BW = $.extend(true, {}, MOVES_DPP, {
 		type: 'Dark',
 		category: 'Special',
 		hasSecondaryEffect: true,
-        pp: 10
-	},
-	'Petal Dance': {
-		bp: 120,
-		type: 'Grass',
-		category: 'Special',
-		makesContact: true,
         pp: 10
 	},
 	'Power Split': {
