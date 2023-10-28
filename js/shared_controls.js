@@ -353,6 +353,8 @@ $(".status").bind("keyup change", function () {
 	} else {
 		$(this).parent().children(".toxic-counter").hide();
 	}
+	var poke = $(this).closest(".poke-info");
+	calcBoosted(poke, 'sp');
 });
 
 $(".ability").change(function () {

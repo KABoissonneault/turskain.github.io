@@ -58,5 +58,14 @@ function CALC_BOOSTED_ADV(poke, statName) {
 	var total = stat.find(".total").text();
 	var boost = stat.find(".boost").val();
 	var boosted = getModifiedStat(total, boost);
+
+	if(statName === 'sp')
+	{
+		var status = poke.find(".status").val();
+		if(status === 'Paralyzed')
+		{
+			boosted = Math.floor(boosted * 0.25);
+		}
+	}
 	stat.find(".boosted").text(boosted);
 }
