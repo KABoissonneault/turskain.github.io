@@ -494,7 +494,7 @@ var MOVES_RBY = {
         category: 'Special',
         makesContact: true,
         pp: 10
-},
+    },
     'Pin Missile': {
         bp: 14,
         type: 'Bug',
