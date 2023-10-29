@@ -121,6 +121,7 @@ $(bothPokemon("#resetBoosts")).click(function () {
 	var poke = $(this).closest(".poke-info");
 	var boosts = poke.find(".boost").val(0);
 	calcBoosts(poke);
+	calculate();
 });
 
 $(".evs").bind("keyup change", function () {
