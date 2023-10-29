@@ -117,6 +117,12 @@ $(".sp .boost").bind("keyup change", function () {
 	var poke = $(this).closest(".poke-info");
 	calcBoosted(poke, 'sp');
 });
+$(bothPokemon("#resetBoosts")).click(function () {
+	var poke = $(this).closest(".poke-info");
+	var boosts = poke.find(".boost").val(0);
+	calcBoosts(poke);
+});
+
 $(".evs").bind("keyup change", function () {
 	calcEvTotal($(this).closest(".poke-info"));
 });
