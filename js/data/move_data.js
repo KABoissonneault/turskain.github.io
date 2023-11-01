@@ -923,7 +923,7 @@ var MOVES_GSC = $.extend(true, {}, MOVES_RBY, {
 	},
 	'Charm': {
         bp: 0,
-        type: 'Fairy',
+        type: 'Normal',
         pp: 20
     },
     'Cotton Spore': {
@@ -1426,7 +1426,7 @@ var MOVES_GSC = $.extend(true, {}, MOVES_RBY, {
 	},
 	'Sweet Kiss': {
         bp: 0,
-        type: 'Fairy',
+        type: 'Normal',
         pp: 10
     },
     'Sweet Scent': {
@@ -2053,7 +2053,7 @@ var MOVES_ADV = $.extend(true, {}, MOVES_GSC, {
 	},
 	'Teeter Dance': {
         bp: 0,
-        type: 'Fairy',
+        type: 'Normal',
         pp: 20
     },
     'Tickle': {
