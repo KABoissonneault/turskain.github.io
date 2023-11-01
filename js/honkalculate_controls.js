@@ -63,17 +63,12 @@ $.fn.dataTableExt.oSort['damage48-desc'] = function (a, b) {
 };
 
 function calculate() {
-    var attacker, defender, setName, allMons, setTagA, setTagB;
-    var selectedTiers = getSelectedTiers();
+    var attacker, defender;
     var setOptions = getSetOptions();
     var dataSet = [];
     for (var i = 0; i < setOptions.length; i++) {
         if (setOptions[i].id && typeof setOptions[i].id !== "undefined") {
-            setName = setOptions[i].id.substring(setOptions[i].id.indexOf("(") + 1, setOptions[i].id.lastIndexOf(")"));
-            allMons = (setOptions[i].set !== "Blank Set") ? "Maison" : "";
-			setTagA = (setOptions[i].isCommon) ? "Common" : "";
-			setTagB = (setOptions[i].afterForty) ? "40+" : "";
-            if (_.contains(selectedTiers, allMons) || _.contains(selectedTiers, setTagA) || _.contains(selectedTiers, setTagB)) {
+            if (setOptions[i].set !== "Blank Set") {
 				attacker = (mode === "one-vs-all") ? new Pokemon($("#p1")) : new Pokemon(setOptions[i].id);
 				defender = (mode === "one-vs-all") ? new Pokemon(setOptions[i].id) : new Pokemon($("#p1"));
 				if (attacker.ability === "Rivalry") {
@@ -109,6 +104,7 @@ function calculate() {
 						data.push(result.koChanceText);
 					}
 				}
+				data.push((mode === "one-vs-all") ? defender.rawStats[SP] : attacker.rawStats[SP]);
 				data.push((mode === "one-vs-all") ? defender.type1 : attacker.type1);
 				data.push((mode === "one-vs-all") ? defender.type2 : attacker.type2);
 				data.push((mode === "one-vs-all") ? defender.ability : attacker.ability);
@@ -118,13 +114,6 @@ function calculate() {
 		}
 	}
 	table.rows.add(dataSet).draw();
-}
-
-function getSelectedTiers() {
-	var selectedTiers = $('.tiers input:checked').map(function () {
-		return this.id;
-	}).get();
-	return selectedTiers;
 }
 
 var calculateMovesOfAttacker;
@@ -188,7 +177,7 @@ function constructDataTable() {
 		destroy: true,
 		columnDefs: [
 			{
-				targets: [3, 5, 6, 7, 8],
+				targets: [3, 6, 7, 8, 9],
 				visible: false,
 				searchable: false
 			},
@@ -227,14 +216,6 @@ function placeBsBtn() {
 	var honkalculator = "<button style='position:absolute' class='bs-btn bs-btn-default'>Honkalculate</button>";
 	$("#holder-2_wrapper").prepend(honkalculator);
 	$(".bs-btn").click(function () {
-		var formats = getSelectedTiers();
-		if (!formats.length) {
-			$(".bs-btn").popover({
-				content: "No format selected",
-				placement: "right"
-			}).popover('show');
-			setTimeout(function () { $(".bs-btn").popover('destroy'); }, 1350);
-		}
 		table.clear();
 		calculate();
 	});
@@ -288,18 +269,6 @@ function setLevel(lvl) {
 	}).popover('show');
 	setTimeout(function () { $('.level').popover('destroy'); }, 1350);
 }
-
-$(".set-selector").change(function (e) {
-	var genWasChanged;
-	var format = getSelectedTiers()[0];
-	if (genWasChanged) {
-		genWasChanged = false;
-	} else if (_.startsWith(format, "VGC") && $('.level').val() !== "50") {
-		setLevel("50");
-	} else if (format === "LC" && $('.level').val() !== "5") {
-		setLevel("5");
-	}
-});
 
 var mode, dtHeight, dtWidth;
 $(document).ready(function () {
