@@ -20,10 +20,16 @@ function ExportPokemon(pokeInfo) {
 	if (gen > 2) {
 		finalText += "EVs: ";
 		var EVs_Array = [];
+		var IVs_Array = [];
 		if (pokemon.HPEVs && pokemon.HPEVs > 0) { // Do HP EVs exist and are they greater than 0?
 			EV_counter += pokemon.HPEVs;
 			EVs_Array.push(pokemon.HPEVs + " HP");
 		}
+
+		if (pokemon.HPIVs && pokemon.HPIVs != 31) {
+			IVs_Array.push(pokemon.HPIVs + " HP");
+		}
+		
 		for (var stat in pokemon.evs) {
 			EV_counter += pokemon.evs[stat];
 			if (EV_counter > 510) {
@@ -31,9 +37,19 @@ function ExportPokemon(pokeInfo) {
 			} else if (pokemon.evs[stat]) {
 				EVs_Array.push(pokemon.evs[stat] + " " + toSmogonStat(stat));
 			}
+			
+			if(pokemon.ivs[stat] && pokemon.ivs[stat] != 31) {
+				IVs_Array.push(pokemon.ivs[stat] + " " + toSmogonStat(stat));
+			}
 		}
 		finalText += serialize(EVs_Array, " / ");
 		finalText += "\n";
+
+		if(IVs_Array.length > 0) {
+			finalText += "IVs: ";
+			finalText += serialize(IVs_Array, " / ");
+			finalText += "\n";
+		}
 	}
 	var movesArray = [];
 	for (var i = 0; i < 4; i++) {
