@@ -1082,6 +1082,31 @@ function getTerrainEffects() {
 	}
 }
 
+function loadDefaultList(id) {
+	$("#" + id + " .set-selector").select2({
+		formatResult: function (object) {
+			return object.set ? ("&nbsp;&nbsp;&nbsp;" + object.set) : ("<b>" + object.text + "</b>");
+		},
+		query: function (query) {
+			var pageSize = 30;
+			var results = _.filter(getSetOptions(), function (option) {
+				var pokeName = option.pokemon.toUpperCase();
+				return !query.term || query.term.toUpperCase().split(" ").every(function (term) {
+					return pokeName.indexOf(term) === 0 || pokeName.indexOf("-" + term) >= 0 || pokeName.indexOf(" " + term) >= 0;
+				});
+			});
+			query.callback({
+				results: results.slice((query.page - 1) * pageSize, query.page * pageSize),
+				more: results.length >= query.page * pageSize
+			});
+		},
+		initSelection: function (element, callback) {
+			var data = getSetOptions()[gen < 3 ? 3 : 1];
+			callback(data);
+		}
+	});
+}
+
 function loadDefaultLists() {
 	$(".set-selector").select2({
 		formatResult: function (object) {

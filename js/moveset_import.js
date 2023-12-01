@@ -351,7 +351,7 @@ $(bothPokemon("#importedSets")).click(function () {
 	if (showCustomSets) {
 		loadCustomList(pokeID);
 	} else {
-		loadDefaultLists();
+		loadDefaultList(pokeID);
 	}
 });
 
