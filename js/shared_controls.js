@@ -225,11 +225,10 @@ function drawHealthBar(poke, max, current) {
 //$(".ivsoverride").keyup(function () {
 //    validate($(this), 0, 31);
 //});
-//$(".leveloverride").keyup(function () {
-//    validate($(this), 1, 100);
-//});
+$(".leveloverride").keyup(function () {
+	localStorage.defaultLevel = $(".leveloverride input").val();
+});
 //HACK!!
-$(".leveloverride").val("50");
 $(".ivsoverrideR1").val("31");
 $(".ivsoverrideL1").val("31");
 //HACK to fix the 55 bug? idk where it comes from
@@ -444,11 +443,8 @@ $(".set-selector").change(function () {
         }
         //HACK! level override button
 		this.leveloverride = ~~document.getElementById("leveloverride").value;
-		if ( (this.leveloverride !== 50 ) || (this.leveloverride !== 55 )) {
-		    var leveloverride = this.leveloverride
-		} else {
-			var leveloverride = 50
-        }
+	    var leveloverride = this.leveloverride;
+
         //HACK! following section: ivsoverride replaces the usual "31" being filled in, leveloverride same thing
 
 		if (pokemonName in setdex && setName in setdex[pokemonName]) {
@@ -1167,7 +1163,16 @@ $(document).ready(function () {
 	});
 	$(".set-selector").val(getSetOptions()[gen < 3 ? 3 : 1].id);
 	$(".set-selector").change();
-    	$(".terrain-trigger").bind("change keyup", getTerrainEffects);
+   	$(".terrain-trigger").bind("change keyup", getTerrainEffects);
+
+	if(localStorage.defaultLevel)
+	{
+		$(".leveloverride").val(localStorage.defaultLevel);
+	}
+	else
+	{
+		$(".leveloverride").val("50");
+	}
 });
 
 $(".ivsoverride").change(function() {
