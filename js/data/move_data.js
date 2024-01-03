@@ -2007,7 +2007,7 @@ var MOVES_ADV = $.extend(true, {}, MOVES_GSC, {
         pp: 10
 	},
 	'Smelling Salts': {
-        bp: 70,
+        bp: 60,
         type: 'Normal',
         category: 'Physical',
         makesContact: true,
