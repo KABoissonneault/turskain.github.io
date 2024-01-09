@@ -178,9 +178,9 @@ th {
 }
 
 .panel {
-    float: left;
     display: inline-block;
-    margin: 5px;
+    vertical-align:top;
+    margin: 0 0 5px;
 }
 
 .poke-info {
@@ -306,7 +306,7 @@ th {
 
 /* header */
 .move-result-group {
-    max-width: 80em;
+    max-width: 50em;
     min-width: 50em;
     margin: 1em 0 11.5em;
 }

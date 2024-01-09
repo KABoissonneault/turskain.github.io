@@ -6,7 +6,7 @@
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
     <title>A Pok&eacute;mon Calculator</title>
     <link type="text/css" rel="stylesheet" href="./select2/select2.css" />
-    <link type="text/css" rel="stylesheet" href="./shared_controls.css?97925add" />
+    <link type="text/css" rel="stylesheet" href="./shared_controls.css?a2f86627" />
     <link type="text/css" rel="stylesheet" href="./bootstrap.css" />
 </head>
 
@@ -39,7 +39,7 @@
     <hr />
     <div aria-label="Move selection" class="move-result-group" role="region" title="Select a move to show detailed results.">
         <div  aria-labelledby="resultHeaderL" class="move-result-subgroup" role="radiogroup">
-            <div class="result-move-header"><span id="resultHeaderL">Pok&eacute;mon 1's Moves (select one to show detailed results)</span>
+            <div class="result-move-header"><span id="resultHeaderL">Pok&eacute;mon 1's Moves</span>
             </div>
             <div>
                 <input class="result-move visually-hidden" type="radio" name="resultMove" id="resultMoveL1" checked="checked" aria-describedby="resultDamageL1" />
@@ -63,7 +63,7 @@
             </div>
         </div>
         <div aria-labelledby="resultHeaderR" class="move-result-subgroup" role="radiogroup">
-            <div class="result-move-header"><span id="resultHeaderR">Pok&eacute;mon 2's Moves (select one to show detailed results)</span>
+            <div class="result-move-header"><span id="resultHeaderR">Pok&eacute;mon 2's Moves</span>
             </div>
             <div>
                 <input class="result-move visually-hidden" type="radio" name="resultMove" id="resultMoveR1" aria-describedby="resultDamageR1" />
@@ -610,7 +610,7 @@
         </fieldset>
     </div>
     
-    <div class="panel">
+    <div class="panel" id="fieldPanel">
         <div aria-label="Field information" role="region">
             <fieldset class="field-info">
                 <legend align="center">Field</legend>
@@ -618,7 +618,7 @@
                 <div class="leveloverride gen-specific g3 g4" aria-labelledby="selectLevelOverride" align="center" style="margin: 0 auto 2px" title="Set the default level of loaded sets.">
                     <span class="visually-hidden" id="selectLevelOverride">Set the default level of loaded sets.</span>
                     <text>Default Level: </text>
-					<input class="leveloverride calc-trigger" id="leveloverride" value="50" />
+                    <input class="leveloverride calc-trigger" id="leveloverride" value="50" />
                 </div>
                 <div aria-labelledby="selectBattleFormatInstruction" class="gen-specific g3 g4 g5 g6 g7" role="radiogroup" style="width: 10.6em; margin: 0 auto 5px;" title="Select the battle format.">
                     <span class="visually-hidden" id="selectBattleFormatInstruction">Select the battle format.</span>
@@ -1324,6 +1324,9 @@
             </div>
         </fieldset>
     </div>
+    <div>
+        <button id="fieldToggle">Toggle Field</button>
+    </div>
     <script type="text/javascript">
         var linkExtension = '.html';
     </script>
@@ -1345,7 +1348,7 @@
     <script type="text/javascript" src="./js/data/item_data.js?f3efe504"></script>
     <script type="text/javascript" src="./js/data/move_data.js?b4015330"></script>
     <script type="text/javascript" src="./js/shared_controls.js?650d6877"></script>
-    <script type="text/javascript" src="./js/index_controls.js?d06ab1ca"></script>
+    <script type="text/javascript" src="./js/index_controls.js?47cdaf4d"></script>
     <script type="text/javascript" src="./js/damage.js?777a7158"></script>
     <script type="text/javascript" src="./js/damage_dpp.js?4e276cf0"></script>
     <script type="text/javascript" src="./js/damage_rse.js?8ff57dcd"></script>
